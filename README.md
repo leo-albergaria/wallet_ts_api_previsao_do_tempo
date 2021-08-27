@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/131170792-23f495a5-252b-4720-b053-31f51e1abb4d.png" align="left" height="150px" width="150px">
+    <h1># Criando projeto para consultar a previsão do tempo via API</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e desenvolvimento Web criando na prática um aplicativo de previsão do tempo utilizando Angular como tecnologia front-end consumindo uma API externa, seu desafio será replicar essa aplicação utilizando Angular e consumindo essa API de terceiros.
     </p>
 </p>      
 
